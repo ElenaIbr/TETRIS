@@ -1,6 +1,6 @@
 # TETRIS
 
-It is usual Tetris App with my own disign. Link to detail info about this game https://en.wikipedia.org/wiki/Tetris
+It is usual Tetris App with my own disign. Detail info about this game: https://en.wikipedia.org/wiki/Tetris
 
 ![](https://github.com/ElenaIbr/Tetris/blob/master/demoTetris.gif)
 
