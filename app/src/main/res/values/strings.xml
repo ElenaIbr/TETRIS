@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TETRIS</string>
+    <string name="score">High score: </string>
+    <string name="new_game">Start new game</string>
+    <string name="reset_sc">Reset your high score</string>
+    <string name="exit">Exit</string>
+    <string name="current_score">Current score: </string>
+    <string name="high_score">High score: </string>
+    <string name="btn_restart">Start again</string>
+    <string name="start_zero"> 0</string>
+</resources>
